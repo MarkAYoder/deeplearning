@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # LeNet_MNIST-GPU.py 
 
 # GPU Code (Put the following code at beginning of your file)
